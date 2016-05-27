@@ -74,10 +74,13 @@
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <version>${maven.plugin.compiler}</version>
-      </plugin>
-    </plugins>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>${maven.plugin.release}</version>
+        <configuration>
+          <remoteTagging>true</remoteTagging>
+          <goals>deploy</goals>
+        </configuration>
+      </plugin>    </plugins>
     <pluginManagement>
       <plugins>
         <plugin>
