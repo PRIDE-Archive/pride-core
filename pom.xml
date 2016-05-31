@@ -9,6 +9,7 @@
 
   <name>PRIDE Core POM file</name>
   <description>This is the root POM file for PRIDE software ecosystem</description>
+  <url></url>
 
   <licenses>
     <license>
