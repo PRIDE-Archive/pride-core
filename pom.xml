@@ -20,6 +20,12 @@
   </licenses>
 
   <developers>
+    <!-- All projects consist of files that were created, at some time, by a person.
+    Like the other systems that surround a project, so to do the people involved with a project have a stake in the project.
+    Developers are presumably members of the project's core development.
+    Note that, although an organization may have many developers (programmers) as members, it is not good form to list
+    them all as developers, but only those who are immediately responsible for the code.
+    A good rule of thumb is, if the person should not be contacted about the project, they need not be listed here. -->
     <developer>
       <id>mbernal</id>
       <name>Manuel Bernal-Llinares</name>
@@ -53,6 +59,12 @@
       <timezone>Europe/London</timezone>
     </developer>
   </developers>
+
+  <contributors>
+    <!-- Contributors are like developers yet play an ancillary role in a project's lifecycle.
+    Perhaps the contributor sent in a bug fix, or added some important documentation.
+    A healthy open source project will likely have more contributors than developers. -->
+  </contributors>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
