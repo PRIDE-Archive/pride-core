@@ -28,7 +28,7 @@
       <roles>
         <role>developer</role>
       </roles>
-      <timezone>0</timezone>
+      <timezone>Europe/London</timezone>
     </developer>
     <developer>
       <id>Yasset Perez-Riverol</id>
@@ -39,7 +39,7 @@
       <roles>
         <role>developer</role>
       </roles>
-      <timezone>0</timezone>
+      <timezone>Europe/London</timezone>
     </developer>
     <developer>
       <id>tobias</id>
@@ -50,7 +50,7 @@
       <roles>
         <role>developer</role>
       </roles>
-      <timezone>0</timezone>
+      <timezone>Europe/London</timezone>
     </developer>
   </developers>
 
