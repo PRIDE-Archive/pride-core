@@ -171,4 +171,11 @@
       <url>http://www.ebi.ac.uk/Tools/maven/repos/content/repositories/pst-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
+
+  <scm>
+    <connection>scm:git:https://github.com/PRIDE-Archive/pride-core.git</connection>
+    <developerConnection>scm:git:https://github.com/PRIDE-Archive/pride-core.git</developerConnection>
+    <url>https://github.com/PRIDE-Archive/pride-core.git</url>
+    <tag>HEAD</tag>
+  </scm>
 </project>
