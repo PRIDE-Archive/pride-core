@@ -93,7 +93,8 @@
           <remoteTagging>true</remoteTagging>
           <goals>deploy</goals>
         </configuration>
-      </plugin>    </plugins>
+      </plugin>
+    </plugins>
     <pluginManagement>
       <plugins>
         <plugin>
