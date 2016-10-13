@@ -35,7 +35,7 @@
       <roles>
         <role>developer</role>
       </roles>
-      <timezone>Europe/London</timezone>
+      <timezone>Europe/Madrid</timezone>
     </developer>
     <developer>
       <id>Yasset Perez-Riverol</id>
