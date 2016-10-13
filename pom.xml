@@ -3,7 +3,7 @@
 
   <groupId>uk.ac.ebi.pride.architectural</groupId>
   <artifactId>pride-core</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
 
   <name>PRIDE Core POM file</name>
@@ -161,6 +161,6 @@
     <connection>scm:git:https://github.com/PRIDE-Archive/pride-core.git</connection>
     <developerConnection>scm:git:https://github.com/PRIDE-Archive/pride-core.git</developerConnection>
     <url>https://github.com/PRIDE-Archive/pride-core.git</url>
-    <tag>HEAD</tag>
+    <tag>pride-core-1.0.1</tag>
   </scm>
 </project>
